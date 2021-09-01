@@ -1,0 +1,24 @@
+id: mFBKbBWRq_E
+titulo: Programando y testeando una aplicación de CONSOLA en Kotlin
+
+descripcion: >
+  Aunque hacer una aplicación de consola suele ser el típico ejemplo para conocer un lenguaje nuevo ("hello world" u "hola mundo"), poco se habla de cómo hacer una trabajando con objetos. Y mucho menos con un diseño que permita hacer pruebas automatizadas fácilmente. 😕
+
+
+  En este video veremos otra forma posible de hacer un CLI, construyendo abstracciones que nos permitan escribir tests desde el primer momento.
+
+enlaces:
+  - nombre: Documentación de mockk (biblioteca de impostores)
+    url: https://mockk.io/
+
+musica:
+  - artista: Mariano Roses
+    sitio: https://www.youtube.com/marianoroses
+
+miniatura:
+  lugar: Tupiza
+  pais: Bolivia
+  url: https://unsplash.com/photos/v7vNQdcsy10
+  artista: 
+    nombre: Robin Noguier
+  
