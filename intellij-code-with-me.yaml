@@ -1,0 +1,29 @@
+descripcion: >
+  ¿Te gustaría trabajar con alguien pero la virtualidad te lo impide? ¿El IntelliJ y una videollamada a la vez te tildan la compu?
+
+  En este video, Fede y Pablo nos muestran una sesión de programación sincrónica, utilizando Code with me. Además de consumir poco ancho de banda, permite colaborar como si estuvieramos sentados uno al lado del otro pero... con dos teclados y dos mouses. 😅
+
+  ¡Contanos en los comentarios si ya lo probaste! 💪
+
+enlaces:
+  - nombre: Semilla KT
+  - nombre: IntelliJ Community
+  - nombre: Presentación de "Code with me"
+    url: https://www.jetbrains.com/es-es/code-with-me/
+
+codigo:
+  - nombre: Vendedores
+    slug: obj2-unahur/vendedores 
+
+musica:
+  - artista: Enzo Espeche
+    sitio: https://www.facebook.com/profile.php?id=100017260083020
+  - artista: Mariano Roses
+    sitio: https://www.youtube.com/marianoroses
+
+miniatura:
+  lugar: Volcán Cotopaxi
+  pais: Ecuador
+  artista: 
+    nombre: Simon Berger
+  

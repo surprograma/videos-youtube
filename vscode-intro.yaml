@@ -1,0 +1,19 @@
+tarjetas:
+  - tiempo: 00:00:56
+    video: Video entorno JS
+
+enlaces:
+  - nombre: Libro diseño
+  - nombre: Semilla TS
+
+musica:
+  - artista: La Trama
+  - artista: Enzo Espeche
+    sitio: https://www.facebook.com/profile.php?id=100017260083020
+
+miniatura:
+  lugar: Volcán Chimborazo
+  pais: Ecuador
+  url: https://unsplash.com/photos/LH5uKCrYw3M
+  artista: 
+    nombre: Desmondluap

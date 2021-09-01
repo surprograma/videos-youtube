@@ -1,0 +1,28 @@
+descripcion: >
+  ¿Usás Git pero borrás el repositorio cuando hay un conflicto? ¿No tenés claro si preferís trabajar por consola o desde el IDE?
+
+  En este video, Fede y Pablo nos muestran una sesión de programación asincrónica, en la que cada uno va commiteando, sincronizando con un repositorio en GitHub y resolviendo conflictos. Y hay para todos los gustos: Fede interactúa directamente desde la consola y Pablo trabaja 100% sin salir del IDE.
+
+  ¡Contanos en los comentarios cómo preferís trabajar vos! 💪
+
+enlaces:
+  - nombre: Semilla KT
+  - nombre: IntelliJ Community
+
+codigo:
+  - nombre: Vendedores
+    slug: obj2-unahur/vendedores 
+
+musica:
+  - artista: Enzo Espeche
+    sitio: https://www.facebook.com/profile.php?id=100017260083020
+  - artista: Mariano Roses
+    sitio: https://www.youtube.com/marianoroses
+
+miniatura:
+  lugar: Montaña Illimani
+  pais: Bolivia
+  url: https://unsplash.com/photos/No6mIqzvq5o
+  artista: 
+    nombre: Azzedine Rouichi
+  

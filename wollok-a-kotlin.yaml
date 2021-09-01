@@ -1,0 +1,21 @@
+descripcion: >
+  Aprendiste objetos utilizando el lenguaje educativo Wollok y ahora te toca empezar a trabajar con Kotlin, un lenguaje industrial... y encima fuertemente tipado. 😱
+
+  En este video te mostramos paso a paso cómo convertir un programa hecho en Wollok a su equivalente en Kotlin. ¡Te vas a sorprender de lo parecidos que son!
+
+enlaces:
+  - nombre: Semilla KT
+  - nombre: Sitio oficial de Wollok
+    url: https://www.wollok.org/
+
+codigo:
+  - nombre: Vendedores
+    slug: obj2-unahur/vendedores
+
+miniatura:
+  lugar: Tilcara
+  pais: Argentina
+  url: https://unsplash.com/photos/VTiiWD7cfXQ
+  artista: 
+    nombre: Héctor Ramón Pérez
+  

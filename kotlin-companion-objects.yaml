@@ -1,0 +1,29 @@
+id: 2RrkG0nCrBw
+titulo: Companion objects en Kotlin, o cómo poner código en las clases
+
+descripcion: >
+  En este video te presentamos una característica interesante de Kotlin: los companion objects. 
+
+  A partir de un ejemplo concreto, veremos cómo estos "objetos acompañantes" nos permiten incorporar métodos y atributos directamente en nuestras clases, para luego utilizarlos desde los objetos o desde fuera.
+
+enlaces:
+  - nombre: Documentación oficial sobre companion objects
+    url: https://kotlinlang.org/docs/object-declarations.html#companion-objects
+
+codigo:
+  - nombre: Bicicletas
+    slug: surprograma/kotlin-bicicletas-companion
+
+musica:
+  - artista: Enzo Espeche
+    sitio: https://www.facebook.com/profile.php?id=100017260083020
+  - artista: Mariano Roses
+    sitio: https://www.youtube.com/marianoroses
+
+miniatura:
+  lugar: Parque Nacional Huascarán
+  pais: Perú
+  url: https://unsplash.com/photos/xQWEVbh12Yc
+  artista: 
+    nombre: Ernesto Leon
+  

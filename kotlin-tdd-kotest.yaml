@@ -1,0 +1,23 @@
+id: MIb0FHaR_pc
+titulo: ¿Cómo hacer TDD en Kotlin? Una pequeña demostración utilizando Kotest
+
+enlaces:
+  - nombre: Semilla KT
+  - nombre: "Kotest: framework de testing para Kotlin" 
+    url: https://kotest.io/
+
+codigo:
+  - nombre: Caralibro
+    slug: surprograma/disenio-kt-caralibro
+
+musica:
+  - artista: Mariano Roses
+    sitio: https://www.youtube.com/marianoroses
+
+miniatura:
+  lugar: Glaciar Spegazzini
+  pais: Argentina
+  url: https://unsplash.com/photos/-ZUCklhd19A
+  artista: 
+    nombre: Rodri Caruso
+  

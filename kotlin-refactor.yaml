@@ -1,0 +1,33 @@
+id: KPc8OWW0EZM
+titulo: "REFACTOR en Kotlin: cómo modificar código heredado sin morir en el intento 😅"
+
+descripcion: >
+  En este video te mostramos una situación que suele ocurrirnos al programar: recibimos código hecho por alguien más*, lleno de malas prácticas, y nos toca mejorarlo. 
+
+
+  Partiendo de un código de "dudosa procedencia", Rodri nos muestra cómo lo va mejorando, paso a paso, pisando sobre seguro. ¡No vale saltear pasos!
+
+
+  *ese alguien más puede ser unx mismx en el pasado, claro. Lo importante es darse cuenta de que lo que hicimos no está muy bueno y tomarse el tiempo para mejorarlo después. 😎
+
+enlaces:
+  - nombre: Sitio sobre Refactoring (en inglés)
+    url: https://refactoring.guru/es/refactoring
+
+codigo:
+  - nombre: Pokémon
+    slug: surprograma/video-refactor-pokemon
+
+musica:
+  - artista: Enzo Espeche
+    sitio: https://www.facebook.com/profile.php?id=100017260083020
+  - artista: Mariano Roses
+    sitio: https://www.youtube.com/marianoroses
+
+miniatura:
+  lugar: Santa Bárbara
+  pais: Colombia
+  url: https://unsplash.com/photos/78-ahPScEM4
+  artista: 
+    nombre: Andrés F. Uran
+  
