@@ -1,0 +1,23 @@
+id: YdSQ7UEAh5U
+titulo: 'Tipos anulables en Kotlin: ¿para qué sirve el signo de pregunta?'
+
+descripcion: >
+  El sistema de tipos de Kotlin, a diferencia de otros lenguajes, tiene una forma diferenciada de tratar a los valores que pueden ser nulos. 
+  
+  
+  Si bien esto nos puede ahorrar muchos dolores de cabeza en el futuro, puede que al principio sea un poco confuso: ¿hay que poner el signo de pregunta siempre? ¿mejor usar la doble exclamación? ¿para qué sirve cada cosa? 😱
+
+
+  En este video intentamos aclarar un poco esas cuestiones, mostrando algunos ejemplos. 
+
+enlaces:
+  - nombre: Documentación sobre Null Safety (en inglés)
+    url: https://kotlinlang.org/docs/null-safety.html
+
+miniatura:
+  lugar: Cerro Pelado
+  pais: Costa Rica
+  url: https://unsplash.com/photos/9225STV9W-M
+  artista: 
+    nombre: Juliana Barquero
+  
