@@ -1,0 +1,29 @@
+id: YdSQ7UEAh5U
+titulo: 'Inyección de dependencias e IMPOSTORES ¿cómo testear servicios externos en Kotlin con mockk?'
+
+descripcion: >
+  Es usual que los sistemas que construimos interactuen con otros servicios, construidos por otras personas. A la hora de probar nuestro código, surgen algunas preguntas:
+
+
+  🤔 ¿Deberíamos hacer pruebas para los servicios externos?
+
+
+  🤔 ¿Cómo hacemos para no interactuar con el servicio real en las pruebas?
+
+
+  En este video veremos una aproximación posible a las pruebas mediante el uso de "impostores", usualmente conocidos como mocks. Utilizaremos para ello la biblioteca MockK, que nos permite crear impostores de manera muy sencilla en Kotlin.
+
+enlaces:
+  - nombre: Documentación de MockK (en inglés)
+    url: https://mockk.io/
+
+miniatura:
+  lugar: Ometepe
+  pais: Nicaragua
+  url: https://unsplash.com/photos/Pn8T-kC9A0E
+  artista: 
+    nombre: Ivana Cajina
+  
+musica:
+  - artista: Mariano Roses
+    sitio: https://www.youtube.com/marianoroses
