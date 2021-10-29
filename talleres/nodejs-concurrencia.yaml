@@ -1,0 +1,21 @@
+descripcion: >
+  En un proyecto de reserva de turnos para asistir a la universidad nos topamos con un problema de concurrencia: ¿qué ocurre si dos personas están intentando registrarse para la misma actividad y solo queda un lugar disponible? 😱
+
+
+  Durante esta sesión de programación, diseñamos y desarrollamos una solución posible, utilizando NodeJS, Sequelize y PostgreSQL.
+
+recursos:
+  - nombre: Pull request del código completo
+    url: https://github.com/unahur-turnos/backend/pull/48
+
+enlaces:
+  - nombre: Documentación oficial de Sequelize
+    url: https://sequelize.org/v5/
+
+miniatura:
+  lugar: Rincón de la Vieja
+  pais: Costa Rica
+  url: https://unsplash.com/photos/G31zRdTdZEA
+  artista: 
+    nombre: Miguel Bruna
+  
