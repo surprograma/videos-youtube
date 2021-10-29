@@ -1,0 +1,35 @@
+descripcion: >
+  Seguramente alguna vez pasaste horas acomodando una imagen en Word o renegaste con alguna presentación que se "descompaginaba" cuando tu compañerx la abría. Ni hablemos de cuando te pasaste a Linux y tuviste que retocar el 80% de los documentos con los que trabajabas para que se vieran bien en LibreOffice.
+
+
+  La flexibilidad de estos entornos de edición gráficos termina convirtiéndose en su principal debilidad: hay tantas formas de hacer lo mismo, y tantas opciones posibles, que armar un documento consistente, agradable a la vista y que se vea bien en cualquier dispositivo es prácticamente un sueño.
+
+
+  En este taller presentamos Markdown, un lenguaje de marcado con el que se puede crear desde documentos hasta presentaciones, con una sintaxis bastante sencilla. De hecho, si alguna vez pusiste negritas o cursivas en algún mensaje de Telegram, WhatsApp o Discord, ¡ya usaste algo de Markdown sin saberlo! 😎
+
+
+  PD: por problemas técnicos, la grabación no quedó muy buena... prometemos mejorar para la próxima. 😅
+
+recursos:
+  - nombre: Diapositivas (hechas en Markdown)
+    url: https://surprograma.github.io/taller-markdown
+  - nombre: Docutopia - instancia pública de HedgeDoc para edición colaborativa
+    url: https://docutopia.tupale.co
+  - nombre: Zettlr - editor offline de Markdown
+    url: https://zettlr.com
+
+enlaces:
+  - nombre: Marklar - editor de Markdown para Moodle
+    url: https://moodle.org/plugins/editor_marklar
+  - nombre: reveal.js - framework para crear diapositivas
+    url: https://revealjs.com/
+  - nombre: Clementina - comunidad de práctica sobre cultura libre en educación
+    url: https://clementina.org.ar/
+
+miniatura:
+  lugar: Colca
+  pais: Perú
+  url: https://unsplash.com/photos/WVC6iAZHP0k
+  artista: 
+    nombre: Jessica Knowlden
+  

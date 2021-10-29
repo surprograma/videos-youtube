@@ -1,0 +1,30 @@
+{{ descripcion }}
+=======
+
+¿Te gustan nuestros videos? ¿Te gustaría apoyar nuestro proyecto?
+Podés invitarnos un cafecito en ☕ https://cafecito.app/surprograma
+
+=======
+
+RECURSOS UTILIZADOS DURANTE EL TALLER:
+{% for it in recursos %}
+👨‍💻 {{ it.nombre }} - {{ it.url }}
+{%- endfor %}
+
+OTROS ENLACES ÚTILES:
+{% for it in enlaces %}
+💡 {{ it.nombre }} - {{ it.url }}
+{%- endfor %}
+
+=======
+
+Unite a la comunidad de El Sur también programa:
+
+👾 Discord - https://discord.gg/sUkjKwXXcR
+😺 GitHub - https://github.com/surprograma
+🛩️ Telegram - https://t.me/surprograma
+📸 Instagram - https://instagram.com/surprograma
+
+=======
+
+📸 La foto de la miniatura fue tomada por {{miniatura.artista.nombre}} en {{miniatura.lugar}} ({{miniatura.pais}}). Podés verla a tamaño completo en Unsplash: {{miniatura.url}}
