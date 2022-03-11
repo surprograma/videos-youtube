@@ -1,0 +1,22 @@
+descripcion: >
+  Probablemente conozcas GitHub como repositorio de código Git pero ¿sabías que tiene herramientas para gestionar por completo un proyecto de software?
+
+
+  En este taller práctico creamos una página en GitHub, planificamos futuras tareas a realizar y vimos cómo hacer un seguimiento de todo el proyecto. Además, algo de automatización, y por supuesto un poco de historia sobre Git y GitHub.
+
+recursos:
+  - nombre: Diapositivas (alojadas en una GitHub page)
+    url: https://surprograma.github.io/taller-proyectos-github/
+  - nombre: VScode online - IDE que utilizamos durante el taller
+    url: https://vscode.dev/
+
+enlaces:
+  - nombre: Pequeña historia de Git (en inglés)
+    url: https://git-scm.com/book/en/v2/Getting-Started-A-Short-History-of-Git
+
+miniatura:
+  lugar: Bali
+  pais: Indonesia
+  url: https://unsplash.com/photos/8H9ph_Jp3hA
+  artista:
+    nombre: Mihai Surdu
