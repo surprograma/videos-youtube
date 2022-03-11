@@ -1,0 +1,28 @@
+descripcion: >
+  Hace ya algunos años que las criptomonedas van tomando cada vez más protagonismo en la agenda pública, siendo incluso hoy en día en varias naciones un tema de debate de sus gobiernos: ¿es posible prohibirlas o regularlas? ¿sería conveniente adoptarlas?
+
+
+  Lejos de zanjar esa discusión, les traemos una propuesta educativa para entender cómo funciona la _blockchain_, tecnología que posibilita que estas monedas existan y puedan ser intercambiadas. De la mano de Julián Zamt, amigo de la casa y programador Solidity, les acercamos esta propuesta de taller en el que vamos a explorar un poco este tema y conocer también sobre _smart contracts_ (o contratos inteligentes).
+
+recursos:
+  - nombre: Remix - IDE para programar contratos en Ethereum
+    url: https://remix.ethereum.org
+  - nombre: MetaMask - billetera crypto, recomendada para usar en desarrollo
+    url: https://metamask.io/
+  - nombre: Egorfine Faucet - aplicación para recibir ETH de prueba
+    url: https://faucet.egorfine.com/
+
+enlaces:
+  - nombre: CryptoZombies - juego-tutorial para aprender Solidity
+    url: https://cryptozombies.io/
+  - nombre: Ethernaut - juego-tutorial para aprender sobre seguridad en contratos inteligentes
+    url: https://ethernaut.openzeppelin.com/
+  - nombre: Hardhat - framework para desarrollo profesional en Solidity
+    url: https://hardhat.org/
+
+miniatura:
+  lugar: Manado
+  pais: Indonesia
+  url: https://unsplash.com/photos/lArMKAekvT0
+  artista:
+    nombre: Dorothea Oldani
