@@ -1,0 +1,20 @@
+descripcion: >
+  Git es una herramienta diseñada especialmente para el trabajo en equipo, aunque dar los primeros pasos puede ser un dolor de cabeza si no se comprende la dinámica que la propia herramienta propone. 
+
+
+  En esta primera parte del taller veremos qué son y cómo se resuelven los conflictos al trabajar más de una persona sobre la misma rama.
+
+recursos:
+  - nombre: Diapositivas
+    url: https://surprograma.github.io/taller-trabajo-colaborativo-git/
+
+enlaces:
+  - nombre: VSCodium - editor utilizado durante el taller
+    url: https://vscodium.com/
+
+miniatura:
+  lugar: Reserva nacional Los Flamencos
+  pais: Chile
+  url: https://unsplash.com/es/fotos/9Q7PqDxCZeQ
+  artista:
+    nombre: Shwetha Shankar
