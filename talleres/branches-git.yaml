@@ -2,15 +2,17 @@ descripcion: >
   Git es una herramienta diseñada especialmente para el trabajo en equipo, aunque dar los primeros pasos puede ser un dolor de cabeza si no se comprende la dinámica que la propia herramienta propone. 
 
 
-  En esta primera parte del taller veremos qué son y cómo se resuelven los conflictos al trabajar más de una persona sobre la misma rama.
+  En esta segunda parte del taller veremos qué son y cómo utilizar las ramas o branches, que nos permitirán diseñar muchos flujos de trabajo diferentes.
 
 recursos:
   - nombre: Diapositivas
-    url: https://surprograma.github.io/taller-trabajo-colaborativo-git/
-  - nombre: Actividad sobre resolución de conflictos
-    url: https://classroom.github.com/a/4yDC3iXf
+    url: https://surprograma.github.io/taller-branches-git/
+  - nombre: Actividad sobre ramas
+    url: https://classroom.github.com/a/bOHaZ9XX
 
 enlaces:
+  - nombre: Learn Git Branching - tutorial interactivo sobre ramas en Git (en español)
+    url: https://learngitbranching.js.org/?locale=es_AR
   - nombre: VSCodium - editor utilizado durante el taller
     url: https://vscodium.com/
 
