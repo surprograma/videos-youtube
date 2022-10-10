@@ -1,14 +1,21 @@
 descripcion: >
-  ¡Te damos la bienvenida a nuestro curso "Desarrollo de bots de Telegram en TypeScript! 🥳
+  ¿Estás preparadx para crear tu primer bot? 🤖
 
 
-  En esta introducción (un poco teórica, es cierto 😅), nos sumergiremos en el mundo de Telegram para entender qué son los bots y todas las cosas que podemos lograr con ellos. A partir del uso de bots reales, veremos algunos ejemplos de interacciones posibles y algunas ideas para crear tus propios bots.
+  Luego de la introducción que hicimos en el video anterior (ya la viste, ¿no?), pasamos a la acción interactuando con el BotFather y dando nuestros primeros pasos en el mundo de los bots de Telegram. Si bien todavía no vamos a entrar en detalle del proyecto, ya podés ir descargandote las herramientas que vamos a usar... en el repo de GitHub que te dejamos acá tenés todo lo necesario para arrancar. 😎
+
+
+  ¡Contanos en los comentarios qué bot te gustaría construir!
 
 enlaces:
   - nombre: Introducción oficial al desarrollo de bots (en inglés)
     url: https://core.telegram.org/bots
   - nombre: telegraf.js - framework para interactuar con la Bot API
     url: https://core.telegram.org/bots
+
+codigo:
+  - nombre: Repositorio semilla - Telegraf + TypeScript
+    slug: surprograma/semilla-telegraf-typescript
 
 musica:
   - artista: Enzo Espeche
