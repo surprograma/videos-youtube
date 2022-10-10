@@ -1,0 +1,28 @@
+descripcion: >
+  ¡Te damos la bienvenida a nuestro curso "Desarrollo de bots de Telegram en TypeScript! 🥳
+
+
+  En esta introducción (un poco teórica, es cierto 😅), nos sumergiremos en el mundo de Telegram para entender qué son los bots y todas las cosas que podemos lograr con ellos. A partir del uso de bots reales, veremos algunos ejemplos de interacciones posibles y algunas ideas para crear tus propios bots.
+
+enlaces:
+  - nombre: Introducción oficial al desarrollo de bots (en inglés)
+    url: https://core.telegram.org/bots
+
+musica:
+  - artista: Enzo Espeche
+    sitio: https://www.facebook.com/profile.php?id=100017260083020
+  - artista: Mariano Roses
+    sitio: https://www.youtube.com/marianoroses
+
+miniatura:
+  lugar: Selva amazónica
+  pais: Brasil
+  url: https://unsplash.com/es/fotos/8fLSrccoox0
+  artista:
+    nombre: Nathalia Segato
+
+ubicacion:
+  nombre: Reserva natural "De agua y monte"
+  provincia: Misiones
+  pais: Argentina
+  sitio: https://www.instagram.com/reservadeaguaymonte/
