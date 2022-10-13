@@ -1,7 +1,7 @@
 {{ descripcion }}
 =======
 
-No te pierdas los otros videos del curso "Desarrollo de bots de Telegram en TypeScript": https://www.youtube.com/playlist?list=PL7q-McYJyHliqlpNGSVe-Y3EHDIma_H9U
+No te pierdas los otros videos del curso "Desarrollo de bots de Telegram en TypeScript": https://www.youtube.com/playlist?list=PL7q-McYJyHlip2-k4RW1nDxJWsFuO4nO1
 
 Este curso (y todo nuestro material) se financia exclusivamente con el aporte voluntario de las personas que nos siguen. 
 Ayudanos a seguir creciendo invitándonos un matecito en 🧉 https://matecito.co/surprograma. ¡Hay recompensas especiales para quienes hagan su aporte!
@@ -10,15 +10,15 @@ Ayudanos a seguir creciendo invitándonos un matecito en 🧉 https://matecito.c
 
 ENLACES ÚTILES:
 {% for it in enlaces -%}
-💡 {{ it.nombre }} -> {{ it.url }}
-{%- endfor %}
+💡 {{ it.nombre }} | {{ it.url }}
+{% endfor %}
 
 {%- if codigo %}
 CÓDIGO UTILIZADO EN ESTE VIDEO:
 {% for it in codigo -%}
-👨‍💻 {{ it.nombre }} -> https://github.com/{{ it.slug }}
-{%- endfor %}
-{%- endif %}
+👨‍💻 {{ it.nombre }} | https://github.com/{{ it.slug }}
+{% endfor %}
+{% endif -%}
 
 =======
 
@@ -40,7 +40,6 @@ Agradecemos a lxs músicxs que nos compartieron sus obras para poder utilizarlas
 {% for it in musica -%}
 🎵 {{ it.artista }} {% if it.sitio %} - {{ it.sitio }} {% endif %}
 {% endfor %}
-
 --- 📸 Foto --- 
 
 La foto de la miniatura fue tomada por {{miniatura.artista.nombre}} en {{miniatura.lugar}} ({{miniatura.pais}}). Podés verla a tamaño completo en Unsplash: {{miniatura.url}}
