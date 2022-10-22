@@ -10,12 +10,12 @@ descripcion: >
 enlaces:
   - nombre: Introducción oficial al desarrollo de bots (en inglés)
     url: https://core.telegram.org/bots
-  - nombre: telegraf.js - framework para interactuar con la Bot API
-    url: https://core.telegram.org/bots
+  - nombre: grammY - framework para interactuar con la Bot API
+    url: https://grammy.dev
 
 codigo:
-  - nombre: Repositorio semilla - Telegraf + TypeScript
-    slug: surprograma/semilla-telegraf-typescript
+  - nombre: Repositorio semilla - grammY + TypeScript
+    slug: surprograma/semilla-grammy-typescript
 
 musica:
   - artista: Enzo Espeche
