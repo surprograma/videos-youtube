@@ -11,7 +11,7 @@ enlaces:
   - nombre: Introducción oficial al desarrollo de bots (en inglés)
     url: https://core.telegram.org/bots
   - nombre: grammY - framework para interactuar con la Bot API
-    url: https://grammy.dev
+    url: https://grammy.dev/es/
 
 codigo:
   - nombre: Repositorio semilla - grammY + TypeScript
