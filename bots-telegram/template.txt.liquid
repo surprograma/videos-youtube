@@ -42,7 +42,7 @@ Agradecemos a lxs músicxs que nos compartieron sus obras para poder utilizarlas
 {% endfor %}
 --- 📸 Foto --- 
 
-La foto de la miniatura fue tomada por {{miniatura.artista.nombre}} en {{miniatura.lugar}} ({{miniatura.pais}}). Podés verla a tamaño completo en Unsplash: {{miniatura.url}}
+La foto de la miniatura fue tomada por {{miniatura.artista.nombre}} en {{miniatura.lugar}} ({{miniatura.pais}}). {% if miniatura.url %}Podés verla a tamaño completo en Unsplash: {{miniatura.url}}{% endif %}
 
 --- 📍 Ubicación ---
 
