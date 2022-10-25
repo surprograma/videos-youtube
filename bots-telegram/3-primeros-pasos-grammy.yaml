@@ -1,0 +1,39 @@
+descripcion: >
+  Llegó el momento de poner manos a la obra. 💪
+
+
+  En este video daremos los primeros pasos con grammY, el framework que hemos elegido para desarrollar los bots de Telegram. Pero antes: ¿por qué usar un framework? ¿por qué grammY y no Telegraf.js? De esto hablaremos, junto con los métodos principales para empezar a crear tu bot: command, on y hears.
+
+
+  Ah, y no te olvides de que en el repo de GitHub que te dejamos acá tenés todo lo necesario para arrancar. 😎
+
+
+  ¡Contanos en los comentarios qué bot te gustaría construir!
+
+enlaces:
+  - nombre: Introducción oficial al desarrollo de bots (en inglés)
+    url: https://core.telegram.org/bots
+  - nombre: grammY - framework para interactuar con la Bot API
+    url: https://grammy.dev/es/
+
+codigo:
+  - nombre: Repositorio semilla - grammY + TypeScript
+    slug: surprograma/semilla-grammy-typescript
+
+musica:
+  - artista: Enzo Espeche
+    sitio: https://www.facebook.com/profile.php?id=100017260083020
+  - artista: Mariano Roses
+    sitio: https://www.youtube.com/marianoroses
+
+miniatura:
+  lugar: Parque provincial Piñalito, Misiones
+  pais: Argentina
+  artista:
+    nombre: Andrea Sierra Bueno
+
+ubicacion:
+  nombre: Jardín botánico "Alberto Roth"
+  provincia: Misiones
+  pais: Argentina
+  sitio: https://turismoposadas.tur.ar/botanico.html
