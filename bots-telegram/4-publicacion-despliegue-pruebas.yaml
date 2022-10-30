@@ -1,0 +1,36 @@
+descripcion: >
+  Ahora sí, publiquemos ese bot para que lo pueda usar cualquier persona. 🚀
+
+
+  Como no tiene mucho sentido crear un bot de Telegram que nadie puede usar (ni tener tu computadora prendida 24 horas al día 😅), antes de seguir con el curso aprenderemos cómo hacer el despliegue del bot de forma gratuita. En este caso hemos elegido Railway, por ser una plataforma muy fácil de usar y -al menos cuando grabamos esto- que ofrece una versión gratuita bastante generosa. 
+
+
+  ¡Contanos en los comentarios cómo se llama tu bot!
+
+enlaces:
+  - nombre: Railway - plataforma para desplegar proyectos
+    url: https://railway.app/
+  - nombre: grammY - framework para interactuar con la Bot API
+    url: https://grammy.dev/es/
+
+codigo:
+  - nombre: Repositorio semilla - grammY + TypeScript
+    slug: surprograma/semilla-grammy-typescript
+
+musica:
+  - artista: Enzo Espeche
+    sitio: https://www.facebook.com/profile.php?id=100017260083020
+  - artista: Mariano Roses
+    sitio: https://www.youtube.com/marianoroses
+
+miniatura:
+  lugar: Chacra Ibirá Poty, Misiones
+  pais: Argentina
+  artista:
+    nombre: Andrea Sierra Bueno
+
+ubicacion:
+  nombre: Jardín botánico "Alberto Roth"
+  provincia: Misiones
+  pais: Argentina
+  sitio: https://turismoposadas.tur.ar/botanico.html
